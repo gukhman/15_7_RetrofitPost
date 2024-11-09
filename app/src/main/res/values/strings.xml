@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">15_6_RetrofitWeatherApi</string>
+    <string name="toolbarTitle">Загрузчик картинок</string>
+    <string name="exit">Выход</string>
+</resources>
